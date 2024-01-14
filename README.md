@@ -31,8 +31,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Here](https://github.com/sirbiel100/challenge--24)
+- Live Site URL: [Here](https://sirbiel100.github.io/challenge--24/)
 
 ## My process
 
